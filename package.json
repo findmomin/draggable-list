@@ -1,0 +1,15 @@
+{
+  "name": "sortable-list",
+  "version": "1.0.0",
+  "description": "Display a scrambled list that can be sorted with drag and drop",
+  "main": "app.js",
+  "scripts": {
+    "start": "tsc --watch app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
