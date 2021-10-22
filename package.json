@@ -4,7 +4,7 @@
   "description": "Display a scrambled list that can be sorted with drag and drop",
   "main": "app.js",
   "scripts": {
-    "start": "tsc --watch app.ts"
+    "start": "tsc -w"
   },
   "keywords": [],
   "author": "",
